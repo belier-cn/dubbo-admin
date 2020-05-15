@@ -8,6 +8,7 @@
 ### Demo地址
 * http://47.91.207.147/#/service
 * 该地址是`develop`分支的最新版本，在从源码构建之前，可以先尝试demo
+* hello
 ### 页面截图
 
 ![index](https://raw.githubusercontent.com/apache/dubbo-admin/develop/doc/images/index.png)
